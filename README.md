@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+AI%2FML+%7C+MLOps;Building+offline-first+intelligent+systems;Desktop+apps+%C2%B7+Cloud+platforms+%C2%B7+Data+products;Turning+ambitious+ideas+into+shipped+software" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Software+Engineering+%7C+Quality+Engineering;Data+Science+%C2%B7+AI%2FML+%C2%B7+MLOps;Desktop+apps+%C2%B7+Cloud+platforms+%C2%B7+Data+products;Building+tested%2C+documented%2C+shippable+software" alt="Typing introduction" />
 </a>
 
 <p>
@@ -14,8 +14,8 @@
   <img src="https://img.shields.io/badge/Open_to-Collaboration-22c55e?style=for-the-badge&labelColor=0f172a" alt="Open to collaboration" />
 </p>
 
-**Software Engineer at ISL · Karachi, Pakistan**<br/>
-I build secure, well-documented software across **AI/ML, desktop systems, cloud platforms, networking, and quality engineering**.
+**Software Engineering Undergraduate · Karachi, Pakistan**<br/>
+I combine a hands-on **quality-engineering foundation** with growing depth in **Data Science, AI/ML, MLOps, and software development**.
 
 </div>
 
@@ -23,32 +23,56 @@ I build secure, well-documented software across **AI/ML, desktop systems, cloud 
 
 ## `> engineering with purpose`
 
-I enjoy taking projects beyond prototypes: modular architecture, persistent data, automated checks, clear documentation, and deployable releases. My work ranges from AI-powered desktop applications and graph algorithms to real-time web platforms and Linux tooling.
+I enjoy taking projects beyond prototypes: modular architecture, persistent data, automated checks, clear documentation, and deployable releases. My background spans QA leadership, API and UI validation, release readiness, technical documentation, AI-powered desktop applications, graph algorithms, real-time web platforms, and Linux tooling.
 
 ```python
 sufiyan = {
     "focus": ["Software Engineering", "AI/ML", "MLOps", "Data Science", "SQE"],
     "building": ["Intelligent desktop apps", "Cloud-native platforms", "Developer tools"],
     "principles": ["Offline-first", "Secure by design", "Tested", "Documented", "Shippable"],
+    "education": "Bachelor of Software Engineering - expected 2027",
+    "languages": ["English - fluent", "Urdu - native"],
     "location": "Karachi, Pakistan",
 }
 ```
 
+## `> experience snapshot`
+
+<div align="center">
+
+| QA Leadership | Product Coverage | Quality Impact | Documentation |
+|:---:|:---:|:---:|:---:|
+| Led a **3-person QA team** | Tested **7+ mobile and web products** | Documented **50+ UI defects** in iterative cycles | Produced **SRS, FRS, DoD, test plans, and user manuals** |
+
+</div>
+
+- Defined quality strategy across test planning, acceptance criteria, defect workflows, reporting, and release readiness.
+- Executed manual, functional, API, UI/UX, regression, sanity, exploratory, and role-based access validation.
+- Coordinated defect triage, root-cause discussions, post-fix verification, backlog hygiene, and quality-gated delivery.
+- Worked across SaaS, ERP, institute-management, mobile, and multi-role business platforms without losing sight of user experience.
+
 ## `> technology stack`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,cs,js,react,nodejs,firebase,docker,linux,git,githubactions,postgres,sqlite,aws,tensorflow,sklearn&theme=dark&perline=8" alt="Python, Java, C#, JavaScript, React, Node.js, Firebase, Docker, Linux, Git, GitHub Actions, PostgreSQL, SQLite, AWS, TensorFlow, and scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=py,js,java,cs,cpp,nodejs,express,nextjs,react,angular,laravel,mysql,postgres,mongodb,firebase,docker,linux,git,githubactions,postman,selenium,androidstudio,vscode&theme=dark&perline=8" alt="Python, JavaScript, Java, C#, C++, Node.js, Express, Next.js, React, Angular, Laravel, MySQL, PostgreSQL, MongoDB, Firebase, Docker, Linux, Git, GitHub Actions, Postman, Selenium, Android Studio, and VS Code" />
 </div>
 
 <br/>
 
 <div align="center">
 
-| Engineering | AI & Data | Platforms | Quality |
+| Engineering | AI & Data | Platforms | Quality Engineering |
 |:---:|:---:|:---:|:---:|
-| Python · Java · C# · JavaScript | ML workflows · Search · Predictions | Desktop · Web · LAN · Cloud | Testing · CI/CD · Documentation |
+| Python · JavaScript · SQL · Java · C# | Data Science · Data Mining · ML workflows | Desktop · Web · LAN · Linux · Mobile | API · UI/UX · Regression · RBAC · CI/CD |
 
 </div>
+
+### Quality engineering toolkit
+
+- **Testing:** manual, API, functional, UI/UX, regression, sanity, exploratory, and RBAC validation.
+- **Documentation:** software and functional requirements, definition of done, acceptance criteria, test plans, bug reports, release notes, and user manuals.
+- **Practices:** Agile, Scrum, sprint planning, CI/CD awareness, defect lifecycle management, release readiness, and post-fix verification.
+- **Platforms:** Windows, Linux/Unix, Android, and iOS.
 
 ## `> featured builds`
 
@@ -83,10 +107,21 @@ sufiyan = {
 
 ## `> currently`
 
-- Improving production-minded AI and data engineering workflows.
-- Building portfolio projects with clear architecture, automated validation, and releases.
-- Exploring reliable MLOps, local-first AI, distributed systems, and software quality engineering.
+- Completing a **Bachelor of Software Engineering**, expected in **2027**, with an AI/ML engineering focus.
+- Building on coursework in OOP, data structures and algorithms, software quality engineering, data science, and data mining.
+- Improving production-minded AI, data engineering, and MLOps workflows.
+- Building portfolio projects with clear architecture, automated validation, documentation, and releases.
+- Exploring local-first AI, distributed systems, and modern software quality engineering.
 - Open to meaningful collaborations and software engineering opportunities.
+
+## `> education & credentials`
+
+- **Bachelor of Software Engineering** - expected 2027<br/>
+  Focus: AI/ML Engineering; relevant study includes OOP, DSA, Software Quality Engineering, Data Science, and Data Mining.
+- **Intermediate in Pre-Engineering** - completed 2022.
+- **Full-Stack Web Development Certification** - completed 2024.
+- **Digital Marketing & SEO Certification** - completed 2024.
+- **Languages:** English (fluent) and Urdu (native).
 
 ## `> connect`
 
