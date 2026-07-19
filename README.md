@@ -67,7 +67,10 @@
   <a href="https://github.com/SufiyanAasim/smart-chess"><img width="48%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=SufiyanAasim&repo=smart-chess&theme=radical" alt="Smart Chess repository card" /></a>
   <br/>
   <a href="https://github.com/SufiyanAasim/process-monitor-manager"><img width="48%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=SufiyanAasim&repo=process-monitor-manager&theme=radical" alt="Process Monitor Manager repository card" /></a>
-  <!-- FUTURE_PROJECT: Add the fourth repository card beside Process Monitor Manager when it is ready. -->
+  <a href="https://github.com/SufiyanAasim/smart-network-intrusion-detection-system"><img width="48%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=SufiyanAasim&repo=smart-network-intrusion-detection-system&theme=radical" alt="Smart Network Intrusion Detection System repository card" /></a>
+  <br/>
+  <a href="https://github.com/SufiyanAasim/digiwallsys"><img width="48%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=SufiyanAasim&repo=digiwallsys&theme=radical" alt="DigiWallSys repository card" /></a>
+  <!-- FUTURE_PROJECT: Add the sixth repository card beside DigiWallSys when it is ready. -->
 </div>
 
 ---
