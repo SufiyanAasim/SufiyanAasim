@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Career route map</title>
+  <desc id="desc">A GPS-style route from SQA Analyst through SQA Engineer, Data Sciences, and Data Mining to AI/ML Ops, with a motorcycle marking the current checkpoint and open to affiliation work</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b1120"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="road-glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0891b2"/>
+      <stop offset="0.5" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#db2777"/>
+    </linearGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="2.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+
+  <rect width="640" height="360" rx="18" fill="url(#sky)"/>
+  <rect x="1" y="1" width="638" height="358" rx="17" fill="none" stroke="#334155" stroke-width="2"/>
+
+  <text x="32" y="42" fill="#f8fafc" font-family="Consolas, monospace" font-size="18" font-weight="700">route: SQA &#8594; data &#8594; AI/ML ops</text>
+  <text x="32" y="64" fill="#64748b" font-family="Consolas, monospace" font-size="13">5 checkpoints · currently at waypoint 05</text>
+
+  <path d="M40 300 C 90 300 120 265 175 250 C 230 235 260 205 310 190 C 360 175 390 155 445 140 C 500 125 545 110 600 90"
+        fill="none" stroke="#1e293b" stroke-width="14" stroke-linecap="round"/>
+  <path d="M40 300 C 90 300 120 265 175 250 C 230 235 260 205 310 190 C 360 175 390 155 445 140 C 500 125 545 110 600 90"
+        fill="none" stroke="url(#road-glow)" stroke-width="3.5" stroke-linecap="round" stroke-dasharray="10 10" filter="url(#soft)"/>
+
+  <!-- Waypoint 01 -->
+  <circle cx="40" cy="300" r="9" fill="#0b1120" stroke="#0891b2" stroke-width="3"/>
+  <text x="16" y="330" text-anchor="start" fill="#67e8f9" font-family="Consolas, monospace" font-size="12" font-weight="700">01</text>
+  <text x="16" y="346" text-anchor="start" fill="#94a3b8" font-family="Consolas, monospace" font-size="11">SQA Analyst</text>
+
+  <!-- Waypoint 02 -->
+  <circle cx="175" cy="250" r="9" fill="#0b1120" stroke="#38bdf8" stroke-width="3"/>
+  <text x="175" y="222" text-anchor="middle" fill="#7dd3fc" font-family="Consolas, monospace" font-size="12" font-weight="700">02</text>
+  <text x="175" y="277" text-anchor="middle" fill="#94a3b8" font-family="Consolas, monospace" font-size="11">SQA Engineer</text>
+
+  <!-- Waypoint 03 -->
+  <circle cx="310" cy="190" r="9" fill="#0b1120" stroke="#7c3aed" stroke-width="3"/>
+  <text x="310" y="162" text-anchor="middle" fill="#c4b5fd" font-family="Consolas, monospace" font-size="12" font-weight="700">03</text>
+  <text x="310" y="217" text-anchor="middle" fill="#94a3b8" font-family="Consolas, monospace" font-size="11">Data Sciences</text>
+
+  <!-- Waypoint 04 -->
+  <circle cx="445" cy="140" r="9" fill="#0b1120" stroke="#db2777" stroke-width="3"/>
+  <text x="445" y="112" text-anchor="middle" fill="#f9a8d4" font-family="Consolas, monospace" font-size="12" font-weight="700">04</text>
+  <text x="445" y="167" text-anchor="middle" fill="#94a3b8" font-family="Consolas, monospace" font-size="11">Data Mining</text>
+
+  <!-- Waypoint 05 - current, with bike marker -->
+  <g filter="url(#soft)">
+    <circle cx="600" cy="90" r="12" fill="#0b1120" stroke="#fbbf24" stroke-width="3"/>
+    <circle cx="600" cy="90" r="5" fill="#fef08a"/>
+  </g>
+  <g transform="translate(523,44) scale(0.65)" filter="url(#soft)">
+    <defs>
+      <linearGradient id="bike-body" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0" stop-color="#22d3ee"/>
+        <stop offset="1" stop-color="#f472b6"/>
+      </linearGradient>
+    </defs>
+    <!-- exhaust -->
+    <path d="M14 64 L-6 70" stroke="#f472b6" stroke-width="5" stroke-linecap="round"/>
+    <!-- rear wheel -->
+    <circle cx="20" cy="70" r="18" fill="#0b1120" stroke="#64748b" stroke-width="5"/>
+    <circle cx="20" cy="70" r="9" fill="none" stroke="#22d3ee" stroke-width="2"/>
+    <!-- front wheel -->
+    <circle cx="118" cy="70" r="18" fill="#0b1120" stroke="#64748b" stroke-width="5"/>
+    <circle cx="118" cy="70" r="9" fill="none" stroke="#f472b6" stroke-width="2"/>
+    <!-- frame -->
+    <path d="M20 70 L48 36 L82 34 L104 70 H60 Z" fill="none" stroke="url(#bike-body)" stroke-width="6" stroke-linejoin="round"/>
+    <!-- fuel tank -->
+    <path d="M50 34 Q64 20 82 26 L78 40 H52 Z" fill="#7c3aed" stroke="#a78bfa" stroke-width="2"/>
+    <!-- seat -->
+    <rect x="32" y="30" width="20" height="7" rx="3" fill="#111827" stroke="#c4b5fd" stroke-width="2"/>
+    <!-- handlebar + headlight -->
+    <path d="M92 26 L112 16 M106 16 H124" stroke="#22d3ee" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="126" cy="18" r="6" fill="#fef08a"/>
+  </g>
+  <text x="624" y="120" text-anchor="end" fill="#fde68a" font-family="Consolas, monospace" font-size="12" font-weight="700">05 · YOU ARE HERE</text>
+  <text x="624" y="136" text-anchor="end" fill="#f9a8d4" font-family="Consolas, monospace" font-size="11" font-weight="700">AI/ML Ops</text>
+  <text x="624" y="152" text-anchor="end" fill="#94a3b8" font-family="Consolas, monospace" font-size="11">open to affiliation work</text>
+
+  <text x="600" y="335" text-anchor="end" fill="#475569" font-family="Consolas, monospace" font-size="12">next stop: let's collaborate? &#8594;</text>
+</svg>
