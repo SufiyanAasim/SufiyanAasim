@@ -17,6 +17,45 @@
       <stop offset="1" stop-color="#f472b6"/>
     </linearGradient>
     <filter id="neon"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      @keyframes bikeLevitate {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-4px); }
+      }
+      @keyframes wheelSpin {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+      @keyframes neonPulse {
+        0%, 100% { filter: drop-shadow(0 0 6px rgba(34,211,238,0.7)); }
+        50% { filter: drop-shadow(0 0 14px rgba(244,114,182,0.95)); }
+      }
+      @keyframes screenGlow {
+        0%, 100% { stroke: #22d3ee; filter: drop-shadow(0 0 4px rgba(34,211,238,0.4)); }
+        50% { stroke: #f472b6; filter: drop-shadow(0 0 9px rgba(244,114,182,0.8)); }
+      }
+      @keyframes codeScroll {
+        0%, 100% { opacity: 0.85; transform: translateX(0px); }
+        50% { opacity: 1; transform: translateX(4px); }
+      }
+      @keyframes sunPulse {
+        0%, 100% { opacity: 0.85; transform: scale(1); }
+        50% { opacity: 1; transform: scale(1.06); }
+      }
+      @keyframes windowLight {
+        0%, 100% { opacity: 0.7; }
+        50% { opacity: 0.15; }
+      }
+      .neon-bike { animation: bikeLevitate 3.2s infinite ease-in-out, neonPulse 4s infinite ease-in-out; transform-origin: center; }
+      .wheel-rear { animation: wheelSpin 3.5s infinite linear; transform-origin: 384px 299px; }
+      .wheel-front { animation: wheelSpin 3.5s infinite linear; transform-origin: 552px 299px; }
+      .monitor-border { animation: screenGlow 5s infinite ease-in-out; }
+      .code-lines { animation: codeScroll 2.8s infinite ease-in-out; }
+      .sun { animation: sunPulse 6s infinite ease-in-out; transform-origin: 510px 68px; }
+      .city-lights rect { animation: windowLight 3.6s infinite ease-in-out; }
+      .city-lights rect:nth-child(2n) { animation-delay: 1.2s; }
+      .city-lights rect:nth-child(3n) { animation-delay: 2.4s; }
+    </style>
   </defs>
 
   <rect width="640" height="360" rx="18" fill="#0b1120"/>
@@ -24,11 +63,11 @@
 
   <!-- Window and skyline -->
   <rect x="22" y="22" width="596" height="184" rx="10" fill="url(#sunset)"/>
-  <circle cx="510" cy="68" r="30" fill="#fef3c7" opacity="0.85"/>
+  <circle class="sun" cx="510" cy="68" r="30" fill="#fef3c7"/>
   <g fill="#312e81" opacity="0.92">
     <path d="M22 153h42v-34h26v34h38V94h44v59h28v-47h51v47h38v-73h46v73h36v-44h47v44h36V91h52v62h39v-30h45v83H22z"/>
   </g>
-  <g fill="#fde68a" opacity="0.7">
+  <g class="city-lights" fill="#fde68a">
     <rect x="143" y="111" width="7" height="7"/><rect x="159" y="111" width="7" height="7"/><rect x="143" y="128" width="7" height="7"/>
     <rect x="307" y="98" width="7" height="7"/><rect x="323" y="98" width="7" height="7"/><rect x="307" y="116" width="7" height="7"/>
     <rect x="469" y="108" width="7" height="7"/><rect x="485" y="108" width="7" height="7"/>
@@ -41,10 +80,12 @@
   <rect x="54" y="216" width="250" height="13" rx="4" fill="#475569"/>
   <rect x="72" y="229" width="14" height="95" fill="#334155"/>
   <rect x="274" y="229" width="14" height="95" fill="#334155"/>
-  <rect x="105" y="146" width="142" height="80" rx="6" fill="#111827" stroke="#22d3ee" stroke-width="3"/>
+  <rect class="monitor-border" x="105" y="146" width="142" height="80" rx="6" fill="#111827" stroke="#22d3ee" stroke-width="3"/>
   <rect x="114" y="155" width="124" height="62" rx="3" fill="url(#night)"/>
-  <path d="M128 169h42M128 182h70M128 195h56" stroke="#67e8f9" stroke-width="5" stroke-linecap="round"/>
-  <path d="M182 169h37M210 182h16M192 195h34" stroke="#f472b6" stroke-width="5" stroke-linecap="round"/>
+  <g class="code-lines">
+    <path d="M128 169h42M128 182h70M128 195h56" stroke="#67e8f9" stroke-width="5" stroke-linecap="round"/>
+    <path d="M182 169h37M210 182h16M192 195h34" stroke="#f472b6" stroke-width="5" stroke-linecap="round"/>
+  </g>
   <rect x="168" y="226" width="18" height="18" fill="#334155"/>
   <rect x="140" y="241" width="74" height="8" rx="4" fill="#475569"/>
   <path d="M78 211h62" stroke="#a78bfa" stroke-width="5"/><path d="M85 200h50" stroke="#22d3ee" stroke-width="4"/>
@@ -52,11 +93,17 @@
   <path d="M258 200q9-14 18 0" fill="none" stroke="#f472b6" stroke-width="3"/>
 
   <!-- Neon motorcycle -->
-  <g filter="url(#neon)">
-    <circle cx="384" cy="299" r="42" fill="#0b1120" stroke="#64748b" stroke-width="8"/>
-    <circle cx="384" cy="299" r="27" fill="none" stroke="#22d3ee" stroke-width="3"/>
-    <circle cx="552" cy="299" r="42" fill="#0b1120" stroke="#64748b" stroke-width="8"/>
-    <circle cx="552" cy="299" r="27" fill="none" stroke="#f472b6" stroke-width="3"/>
+  <g class="neon-bike" filter="url(#neon)">
+    <g class="wheel-rear">
+      <circle cx="384" cy="299" r="42" fill="#0b1120" stroke="#64748b" stroke-width="8"/>
+      <circle cx="384" cy="299" r="27" fill="none" stroke="#22d3ee" stroke-width="3" stroke-dasharray="12 8"/>
+      <circle cx="384" cy="299" r="16" fill="none" stroke="#f472b6" stroke-width="2" stroke-dasharray="6 6"/>
+    </g>
+    <g class="wheel-front">
+      <circle cx="552" cy="299" r="42" fill="#0b1120" stroke="#64748b" stroke-width="8"/>
+      <circle cx="552" cy="299" r="27" fill="none" stroke="#f472b6" stroke-width="3" stroke-dasharray="12 8"/>
+      <circle cx="552" cy="299" r="16" fill="none" stroke="#22d3ee" stroke-width="2" stroke-dasharray="6 6"/>
+    </g>
     <path d="M384 299 L430 244 L492 247 L526 299 L450 299 Z" fill="none" stroke="url(#bike)" stroke-width="8" stroke-linejoin="round"/>
     <path d="M430 244 L414 223 L468 223 L492 247" fill="#7c3aed" stroke="#a78bfa" stroke-width="4"/>
     <path d="M466 221 Q494 198 520 222 L499 248 H464z" fill="#0891b2" stroke="#67e8f9" stroke-width="4"/>

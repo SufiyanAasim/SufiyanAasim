@@ -7,16 +7,41 @@
       <stop offset="1" stop-color="#0b1120"/>
     </linearGradient>
     <filter id="glow"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      @keyframes cursorBlink {
+        0%, 49% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+      @keyframes borderPulse {
+        0%, 100% { stroke: #334155; }
+        33% { stroke: #0891b2; }
+        66% { stroke: #7c3aed; }
+      }
+      @keyframes lineGlow {
+        0%, 100% { filter: drop-shadow(0 0 0px rgba(74,222,128,0)); }
+        50% { filter: drop-shadow(0 0 5px rgba(74,222,128,0.5)); }
+      }
+      @keyframes dotPulse {
+        0%, 100% { opacity: 1; transform: scale(1); }
+        50% { opacity: 0.5; transform: scale(0.85); }
+      }
+      .cursor { animation: cursorBlink 0.85s infinite; }
+      .card-border { animation: borderPulse 8s infinite ease-in-out; }
+      .cmd-text { animation: lineGlow 4s infinite ease-in-out; }
+      .dot1 { animation: dotPulse 3s infinite 0s ease-in-out; transform-origin: 24px 21px; }
+      .dot2 { animation: dotPulse 3s infinite 1s ease-in-out; transform-origin: 44px 21px; }
+      .dot3 { animation: dotPulse 3s infinite 2s ease-in-out; transform-origin: 64px 21px; }
+    </style>
   </defs>
   <rect width="640" height="360" rx="18" fill="url(#panel)"/>
-  <rect x="1" y="1" width="638" height="358" rx="17" fill="none" stroke="#334155" stroke-width="2"/>
+  <rect class="card-border" x="1" y="1" width="638" height="358" rx="17" fill="none" stroke="#334155" stroke-width="2"/>
   <rect width="640" height="42" rx="18" fill="#1e293b"/>
   <rect y="25" width="640" height="17" fill="#1e293b"/>
-  <circle cx="24" cy="21" r="6" fill="#fb7185"/>
-  <circle cx="44" cy="21" r="6" fill="#fbbf24"/>
-  <circle cx="64" cy="21" r="6" fill="#4ade80"/>
+  <circle class="dot1" cx="24" cy="21" r="6" fill="#fb7185"/>
+  <circle class="dot2" cx="44" cy="21" r="6" fill="#fbbf24"/>
+  <circle class="dot3" cx="64" cy="21" r="6" fill="#4ade80"/>
   <text x="320" y="27" text-anchor="middle" fill="#94a3b8" font-family="Consolas, monospace" font-size="14">sufiyan@workspace: ~</text>
-  <g font-family="Consolas, 'Courier New', monospace" font-size="18">
+  <g class="cmd-text" font-family="Consolas, 'Courier New', monospace" font-size="18">
     <text x="28" y="78" fill="#4ade80" font-weight="700">sufiyan@workspace:~$ <tspan fill="#f8fafc">whoami</tspan></text>
     <text x="28" y="103" fill="#cbd5e1">Mohammad Sufiyan Aasim</text>
 
@@ -29,6 +54,6 @@
     <text x="28" y="283" fill="#22d3ee">[+]</text><text x="62" y="283" fill="#cbd5e1">English · Urdu · Karachi</text>
     <text x="28" y="310" fill="#a78bfa">[OK]</text><text x="78" y="310" fill="#f8fafc">Open to affiliation work</text>
     <text x="28" y="338" fill="#4ade80" font-weight="700">sufiyan@workspace:~$</text>
-    <rect x="260" y="322" width="10" height="20" fill="#67e8f9" filter="url(#glow)"/>
+    <rect class="cursor" x="260" y="322" width="10" height="20" fill="#67e8f9" filter="url(#glow)"/>
   </g>
 </svg>
