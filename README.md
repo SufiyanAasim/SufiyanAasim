@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Software Engineering Undergraduate · Karachi, Pakistan</b><br/>
-  SQA Analyst · SQA Engineer · Data Sciences · Data Mining · AI/ML Ops &nbsp;|&nbsp; Open to Affiliation Work
+  SQA Analyst · SQA Engineer · SDET · Data Sciences · Data Mining · AI/ML Ops &nbsp;|&nbsp; Open to Affiliation Work
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@
 ## `> route map.`
 
 <p align="center">
-  <img src="assets/route-map.svg" width="80%" alt="Career route map from SQA Analyst through SQA Engineer, Data Sciences, and Data Mining to AI/ML Ops — open to affiliation work" />
+  <img src="assets/route-map.svg" width="80%" alt="Career route map from SQA Analyst through SQA Engineer, SDET, Data Sciences, and Data Mining to AI/ML Ops — open to affiliation work" />
 </p>
 
 ---
