@@ -50,8 +50,8 @@
   <rect width="640" height="360" rx="18" fill="url(#sky)"/>
   <rect x="1" y="1" width="638" height="358" rx="17" fill="none" stroke="#334155" stroke-width="2"/>
 
-  <text x="32" y="42" fill="#f8fafc" font-family="Consolas, monospace" font-size="18" font-weight="700">route: SQA &#8594; SDET &#8594; data &#8594; AI/ML ops</text>
-  <text x="32" y="64" fill="#64748b" font-family="Consolas, monospace" font-size="13">6 checkpoints · currently at waypoint 06</text>
+  <text x="32" y="38" fill="#f8fafc" font-family="Consolas, monospace" font-size="17" font-weight="700">career route map: 6 strategic checkpoints</text>
+  <text x="32" y="60" fill="#38bdf8" font-family="Consolas, monospace" font-size="13" font-weight="700">progression: SQA Analyst &#8594; SDET &#8594; Data Sciences &#8594; AI/ML Ops</text>
 
   <!-- Winding Dynamic Circuit Path -->
   <path d="M 50 280 C 100 280, 110 220, 150 220 C 190 220, 220 250, 260 250 C 300 250, 330 180, 370 180 C 410 180, 440 140, 480 140 C 520 140, 550 85, 580 85"
@@ -78,15 +78,15 @@
   <text x="260" y="296" text-anchor="middle" fill="#94a3b8" font-family="Consolas, monospace" font-size="11">SDET</text>
 
   <!-- Waypoint 04 -->
-  <circle class="ping4" cx="370" cy="180" r="9" fill="none" stroke="#7c3aed"/>
-  <circle cx="370" cy="180" r="9" fill="#0b1120" stroke="#7c3aed" stroke-width="3"/>
-  <text x="370" y="152" text-anchor="middle" fill="#c4b5fd" font-family="Consolas, monospace" font-size="12" font-weight="700">04</text>
+  <circle class="ping4" cx="370" cy="180" r="9" fill="none" stroke="#06b6d4"/>
+  <circle cx="370" cy="180" r="9" fill="#0b1120" stroke="#06b6d4" stroke-width="3"/>
+  <text x="370" y="152" text-anchor="middle" fill="#22d3ee" font-family="Consolas, monospace" font-size="12" font-weight="700">04</text>
   <text x="370" y="207" text-anchor="middle" fill="#94a3b8" font-family="Consolas, monospace" font-size="11">Data Sciences</text>
 
   <!-- Waypoint 05 -->
-  <circle class="ping5" cx="480" cy="140" r="9" fill="none" stroke="#db2777"/>
-  <circle cx="480" cy="140" r="9" fill="#0b1120" stroke="#db2777" stroke-width="3"/>
-  <text x="480" y="112" text-anchor="middle" fill="#f9a8d4" font-family="Consolas, monospace" font-size="12" font-weight="700">05</text>
+  <circle class="ping5" cx="480" cy="140" r="9" fill="none" stroke="#f97316"/>
+  <circle cx="480" cy="140" r="9" fill="#0b1120" stroke="#f97316" stroke-width="3"/>
+  <text x="480" y="112" text-anchor="middle" fill="#fbbf24" font-family="Consolas, monospace" font-size="12" font-weight="700">05</text>
   <text x="480" y="167" text-anchor="middle" fill="#94a3b8" font-family="Consolas, monospace" font-size="11">Data Mining</text>
 
   <!-- Waypoint 06 - current, with Cyberpunk Superbike parked cleanly right above -->
@@ -98,37 +98,42 @@
   <g transform="translate(383, -34) scale(0.42)" filter="url(#soft)">
     <g class="bike-hover">
       <defs>
-        <linearGradient id="bike-body" x1="0" y1="0" x2="1" y2="1">
-          <stop offset="0" stop-color="#22d3ee"/>
-          <stop offset="1" stop-color="#f472b6"/>
+        <radialGradient id="sun-shadow" cx="50%" cy="50%" r="50%">
+          <stop offset="0%" stop-color="#f97316" stop-opacity="0.85"/>
+          <stop offset="60%" stop-color="#ea580c" stop-opacity="0.4"/>
+          <stop offset="100%" stop-color="#fbbf24" stop-opacity="0"/>
+        </radialGradient>
+        <linearGradient id="cyan-body" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0" stop-color="#67e8f9"/>
+          <stop offset="1" stop-color="#0891b2"/>
         </linearGradient>
       </defs>
-      <!-- Neon Underglow -->
-      <ellipse cx="468" cy="318" rx="80" ry="6" fill="#f472b6" opacity="0.45" filter="url(#soft)"/>
+      <!-- Warm Orange Sun Shadow / Underglow -->
+      <ellipse cx="468" cy="318" rx="84" ry="10" fill="url(#sun-shadow)" filter="url(#soft)"/>
       <!-- Rear Wheel & Drilled Brake Disc Rotor -->
       <g class="wheel-rear">
         <circle cx="384" cy="299" r="42" fill="#0b1120" stroke="#64748b" stroke-width="8"/>
         <circle cx="384" cy="299" r="27" fill="none" stroke="#22d3ee" stroke-width="3" stroke-dasharray="12 8"/>
         <circle cx="384" cy="299" r="19" fill="none" stroke="#94a3b8" stroke-width="2.5" stroke-dasharray="4 4"/>
       </g>
-      <rect x="368" y="280" width="12" height="18" rx="3" fill="#f472b6" stroke="#f8fafc" stroke-width="1.5"/>
+      <rect x="368" y="280" width="12" height="18" rx="3" fill="#f97316" stroke="#f8fafc" stroke-width="1.5"/>
       <!-- Front Wheel & Drilled Brake Disc Rotor -->
       <g class="wheel-front">
         <circle cx="552" cy="299" r="42" fill="#0b1120" stroke="#64748b" stroke-width="8"/>
-        <circle cx="552" cy="299" r="27" fill="none" stroke="#f472b6" stroke-width="3" stroke-dasharray="12 8"/>
+        <circle cx="552" cy="299" r="27" fill="none" stroke="#06b6d4" stroke-width="3" stroke-dasharray="12 8"/>
         <circle cx="552" cy="299" r="19" fill="none" stroke="#94a3b8" stroke-width="2.5" stroke-dasharray="4 4"/>
       </g>
       <rect x="536" y="280" width="12" height="18" rx="3" fill="#22d3ee" stroke="#f8fafc" stroke-width="1.5"/>
       <!-- Twin-Spar Sportbike Frame -->
-      <path d="M384 299 L430 238 L496 242 L532 299 L454 299 Z" fill="none" stroke="url(#bike-body)" stroke-width="9" stroke-linejoin="round"/>
+      <path d="M384 299 L430 238 L496 242 L532 299 L454 299 Z" fill="none" stroke="url(#cyan-body)" stroke-width="9" stroke-linejoin="round"/>
       <!-- Aerodynamic Belly Pan Cowl -->
-      <path d="M440 299 L516 299 L528 280 L444 280 Z" fill="#4c1d95" stroke="#f472b6" stroke-width="3" stroke-linejoin="round"/>
+      <path d="M440 299 L516 299 L528 280 L444 280 Z" fill="#0f172a" stroke="#22d3ee" stroke-width="3" stroke-linejoin="round"/>
       <!-- Sharp High Tail & LED Taillight -->
-      <path d="M430 238 L396 214 L440 214 L464 238 Z" fill="#7c3aed" stroke="#a78bfa" stroke-width="4"/>
-      <path d="M396 214 L378 220 L396 226 Z" fill="#fb7185" filter="url(#soft)"/>
+      <path d="M430 238 L396 214 L440 214 L464 238 Z" fill="#0891b2" stroke="#67e8f9" stroke-width="4"/>
+      <path d="M396 214 L378 220 L396 226 Z" fill="#f97316" filter="url(#soft)"/>
       <!-- Muscular Superbike Fuel Tank & Split Sport Seat -->
-      <path d="M440 214 Q468 190 496 216 L480 242 H440 Z" fill="#1e1b4b" stroke="#c4b5fd" stroke-width="3.5"/>
-      <rect x="424" y="210" width="28" height="8" rx="4" fill="#0b1120" stroke="#c4b5fd" stroke-width="2"/>
+      <path d="M440 214 Q468 190 496 216 L480 242 H440 Z" fill="#0f172a" stroke="#67e8f9" stroke-width="3.5"/>
+      <rect x="424" y="210" width="28" height="8" rx="4" fill="#0b1120" stroke="#67e8f9" stroke-width="2"/>
       <!-- Aggressive Sportbike Front Fairing Cowl -->
       <path d="M480 242 L524 212 L558 220 L532 299 L480 280 Z" fill="#0891b2" stroke="#67e8f9" stroke-width="4" stroke-linejoin="round"/>
       <!-- Dual LED Cyberpunk Headlights & Clip-on Handlebars -->
@@ -136,7 +141,7 @@
       <path d="M496 216 L524 200 H542" stroke="#22d3ee" stroke-width="5" stroke-linecap="round"/>
       <!-- Racing Canister Exhaust & Plasma Flame Pulse -->
       <path d="M430 292 L468 274 L476 284 L438 302 Z" fill="#334155" stroke="#fbbf24" stroke-width="3"/>
-      <path class="exhaust-line" d="M430 297 L406 302" stroke="#67e8f9" stroke-width="6" stroke-linecap="round" filter="url(#soft)"/>
+      <path class="exhaust-line" d="M430 297 L406 302" stroke="#f97316" stroke-width="6" stroke-linecap="round" filter="url(#soft)"/>
     </g>
   </g>
   <text x="624" y="115" text-anchor="end" fill="#fde68a" font-family="Consolas, monospace" font-size="12" font-weight="700">06 · YOU ARE HERE</text>
