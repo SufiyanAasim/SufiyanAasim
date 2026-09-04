@@ -33,8 +33,6 @@
 
 🧠 **Data Science & AI Focus:** Deep in Data Mining techniques, statistical telemetry modeling, and machine learning operations for defensive and analytical systems.
 
-🏍️ **Life Off the Keyboard:** Passionate motorcyclist — rides double as rubber-duck debugging sessions.
-
 💼 **Open to Affiliation Work:** Ready to collaborate on remote quality engineering, QA automation, and intelligent software systems.
 
 ---
