@@ -191,15 +191,6 @@ Lightweight, menu-driven terminal CLI, Zenity GUI, and live auto-refreshing TUI 
 
 ---
 
-# 🏆 Engineering Highlights & Philosophy
-
-- 🧪 **Test-First Engineering Rigor:** Default to writing automated tests and assertions before fixing bugs; maintain a zero-regression mindset.
-- 📐 **Algorithmic Problem Solving:** Implemented Dijkstra's shortest path for Karachi Metro Navigation, as well as A*, BFS & Q-Learning agents in Smart Snake.
-- 🛡️ **Defensive Systems Design:** Built immutable double-entry accounting in digital financial ledgers and fault-tolerant firmware with hysteresis and boot self-tests for embedded hardware.
-- 📍 **Based in Karachi, Pakistan:** Open to affiliation work, contract engagements, and remote software engineering roles.
-
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/msufiyanpk" target="_blank" rel="noopener noreferrer">
     <img src="assets/linkedin-icon.svg" width="40" height="40" alt="Connect on LinkedIn" />
