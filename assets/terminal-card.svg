@@ -132,7 +132,7 @@
   <circle class="dot2" cx="44" cy="21" r="6" fill="#fbbf24"/>
   <circle class="dot3" cx="64" cy="21" r="6" fill="#4ade80"/>
   <text x="320" y="27" text-anchor="middle" fill="#94a3b8" font-family="Consolas, monospace" font-size="14">sufiyan@workspace: ~</text>
-  <g font-family="Consolas, 'Courier New', monospace" font-size="18">
+  <g font-family="Consolas, 'Courier New', monospace" font-size="16">
     <text class="p-1" x="28" y="78" fill="#4ade80" font-weight="700">sufiyan@workspace:~$</text>
     <g clip-path="url(#type-clip-1)">
       <text x="250" y="78" fill="#f8fafc" font-weight="700">whoami</text>
@@ -143,16 +143,16 @@
     <g clip-path="url(#type-clip-2)">
       <text x="250" y="140" fill="#f8fafc" font-weight="700">cat education.txt</text>
     </g>
-    <text class="out-2" x="28" y="165" fill="#cbd5e1">BSE · AI/ML focus · Expected 2027</text>
+    <text class="out-2" x="28" y="165" fill="#cbd5e1">BSE @ Bahria University · AI/ML Focus · Expected 2027</text>
 
     <text class="p-3" x="28" y="202" fill="#4ade80" font-weight="700">sufiyan@workspace:~$</text>
     <g clip-path="url(#type-clip-3)">
       <text x="250" y="202" fill="#f8fafc" font-weight="700">./profile.sh</text>
     </g>
-    <g class="out-3a"><text x="28" y="229" fill="#22d3ee">[+]</text><text x="62" y="229" fill="#cbd5e1">SQA Analyst &#8594; SQA Engineer &#8594; SDET</text></g>
-    <g class="out-3b"><text x="28" y="256" fill="#22d3ee">[+]</text><text x="62" y="256" fill="#cbd5e1">Data Sciences · Data Mining · AI/ML Ops</text></g>
-    <g class="out-3c"><text x="28" y="283" fill="#22d3ee">[+]</text><text x="62" y="283" fill="#cbd5e1">English · Urdu · Karachi</text></g>
-    <g class="out-3d"><text x="28" y="310" fill="#a78bfa">[OK]</text><text x="78" y="310" fill="#f8fafc">Open to affiliation work</text></g>
+    <g class="out-3a"><text x="28" y="229" fill="#22d3ee">[+]</text><text x="62" y="229" fill="#cbd5e1">SQE Executive · Former CQO (QA Lead) · SDET</text></g>
+    <g class="out-3b"><text x="28" y="256" fill="#22d3ee">[+]</text><text x="62" y="256" fill="#cbd5e1">3+ Years QA Experience · SaaS, ERP &amp; Mobile</text></g>
+    <g class="out-3c"><text x="28" y="283" fill="#22d3ee">[+]</text><text x="62" y="283" fill="#cbd5e1">Data Sciences · Data Mining · AI/ML Ops</text></g>
+    <g class="out-3d"><text x="28" y="310" fill="#a78bfa">[OK]</text><text x="74" y="310" fill="#f8fafc">Open to affiliation work &amp; remote roles</text></g>
 
     <text class="p-4" x="28" y="338" fill="#4ade80" font-weight="700">sufiyan@workspace:~$</text>
     <rect class="cursor" x="250" y="62" width="10" height="20" fill="#67e8f9" filter="url(#glow)"/>

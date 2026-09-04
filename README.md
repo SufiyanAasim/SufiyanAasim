@@ -21,19 +21,9 @@
 
 # 👨‍💻 About Me
 
-🎓 **Software Engineering Undergraduate (Expected 2027)** at **Bahria University Karachi Campus**  
-• **Focus:** AI/ML Engineering  
-• **Coursework:** Software Quality Engineering, Data Sciences, Data Mining, Data Structures & Algorithms, Object-Oriented Programming
-
-🧪 **Software Quality Engineer with 3+ Years of Hands-on Experience** across SaaS, ERP, and mobile platforms. Progressed from SQA Intern to **Chief Quality Officer / QA Lead**, directing a 3-person QA team and owning end-to-end quality planning and release readiness.
-
-📱 **Cross-Platform & API Testing:** Executed manual, API, functional, UI/UX, regression, and exploratory test cycles across 7+ production mobile & web products on Android and iOS using Android Studio, TestFlight, Postman, and browser tools.
-
-📋 **End-to-End QA Documentation:** Authored production SRS, FRS, Test Plans, Acceptance Criteria, Definition of Done, and business-logic QA walkthroughs for AI and enterprise platforms (*CancunAI*, *themetalytics*, *T.R.A.V.E.L*).
-
-🧠 **Data Science & AI Focus:** Deep in Data Mining techniques, statistical telemetry modeling, and machine learning operations for defensive and analytical systems.
-
-💼 **Open to Affiliation Work:** Ready to collaborate on remote quality engineering, QA automation, and intelligent software systems.
+<p align="center">
+  <img src="assets/terminal-card.svg" width="640" alt="Mohammad Sufiyan Aasim — Terminal Profile" />
+</p>
 
 ---
 
@@ -183,13 +173,6 @@ Lightweight, menu-driven terminal CLI, Zenity GUI, and live auto-refreshing TUI 
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=SufiyanAasim&theme=radical" alt="Sufiyan's GitHub Contribution Streak" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SufiyanAasim/SufiyanAasim/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SufiyanAasim/SufiyanAasim/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/SufiyanAasim/SufiyanAasim/output/github-contribution-grid-snake.svg" alt="A snake eating through Sufiyan's GitHub contribution graph" width="100%" />
-  </picture>
-</p>
 
 ---
 
