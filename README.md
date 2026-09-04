@@ -185,30 +185,15 @@ Production-grade C# .NET 8 WinForms Airline Reservation & Telemetry Analytics Sy
 
 ---
 
-# 📫 Let's Connect
-
-<p align="center">Open to conversations about quality engineering, data systems, and production-ready AI/ML workflows.</p>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/msufiyanpk"><img src="assets/contact-linkedin.svg" width="320" alt="Connect on LinkedIn" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:sufiyanaasim@outlook.com"><img src="assets/contact-email.svg" width="320" alt="Send an email" /></a>
+  <a href="https://www.linkedin.com/in/msufiyanpk" target="_blank" rel="noopener noreferrer">
+    <img src="assets/linkedin-icon.svg" width="40" height="40" alt="Connect on LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sufiyanaasim@outlook.com">
+    <img src="assets/email-icon.svg" width="40" height="40" alt="Send an Email" />
+  </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:22d3ee,50:d946ef,100:f43f5e&text=let's%20talk%20tech!&fontSize=44&fontAlign=73&fontAlignY=68&animation=twinkling&section=footer&reversal=true" width="100%" alt="Let's talk tech" />
 
-## `> license.`
-
-<p align="center">
-  <a href="LICENSE">MIT License</a> © 2026 Mohammad Sufiyan Aasim — the SVG artwork, the snake workflow, and this README's layout are free to fork and remix.
-</p>
-
----
-
-<div align="center">
-
-⭐ <b>Found a section, an SVG, or the snake workflow worth stealing? Fork it and make it yours.</b>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0891b2,50:7c3aed,100:db2777&text=let's%20talk%20tech!&fontSize=44&fontAlign=73&fontAlignY=68&animation=twinkling&section=footer&reversal=true" width="100%" alt="Let's talk tech" />
