@@ -165,27 +165,11 @@ Cloud-native smart token & queue management system featuring real-time queues, a
 
 ---
 
-### ♟️ [Smart Chess — Engine & AI Blunder Analysis](https://github.com/SufiyanAasim/smart-chess)
-
-Tournament-grade Python desktop chess platform with Stockfish 18 engine evaluation, Tactical Puzzle Trainer, post-match AI Blunder Graphs, custom Fischer time increments, and decentralized LAN multiplayer with Spectator mode.
-
-**Tech:** `Python` • `Tkinter` • `Pygame` • `Stockfish 18` • `LAN Multiplayer` • `SQLite`
-
----
-
-### 📊 [Process Monitor Manager](https://github.com/SufiyanAasim/process-monitor-manager)
+### 📊 [Process Monitor Manager (PMM)](https://github.com/SufiyanAasim/process-monitor-manager)
 
 Lightweight, menu-driven terminal CLI, Zenity GUI, and live auto-refreshing TUI dashboard for monitoring and managing Ubuntu/Linux system processes using native POSIX tooling (`procps`, `psmisc`, `curses`).
 
 **Tech:** `Bash / Shell` • `Linux (procps, curses)` • `Zenity GUI` • `POSIX Utilities` • `System Monitoring`
-
----
-
-### ✈️ [Airline Reservation & Telemetry Analytics](https://github.com/SufiyanAasim/airline-reservation-system)
-
-Production-grade C# .NET 8 WinForms Airline Reservation & Telemetry Analytics System with SQLite persistence, live radar linear animations, PCM wave audio feedback, Squawk 7700 Mayday emergency deck, and executive analytics reports.
-
-**Tech:** `C#` • `.NET 8 WinForms` • `SQLite` • `Telemetry Analytics` • `GDI+ Animations`
 
 ---
 
