@@ -1,17 +1,17 @@
 <svg
-  width="854"
+  width="1000"
   height="210"
   xmlns="http://www.w3.org/2000/svg"
   xmlns:xlink="http://www.w3.org/1999/xlink"
   style="z-index:1;position:relative"
-  viewBox="0 0 854 210"
+  viewBox="0 0 1000 210"
   role="img"
   aria-label="Let's talk tech - Connect on LinkedIn or Email via Outlook"
 >
   <title>Let's talk tech</title>
   <style>
     .text {
-      font-size: 44px;
+      font-size: 40px;
       font-weight: 700;
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
       animation: twinkling 4s ease-in-out infinite;
@@ -29,15 +29,14 @@
     }
     .btn-link {
       cursor: pointer;
-      transition: transform 0.2s ease;
     }
     .btn-link:hover {
-      filter: brightness(1.15);
+      filter: brightness(1.18);
     }
   </style>
 
   <defs>
-    <!-- Wave Gradient: Cyan -> Magenta -> Rose (Reversed horizontally to match screenshot: Rose on left, Cyan on right) -->
+    <!-- Wave Gradient: Cyan -> Magenta -> Rose (Reversed horizontally: Rose on left, Cyan on right) -->
     <linearGradient id="waveLinear" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#22d3ee"/>
       <stop offset="50%" stop-color="#d946ef"/>
@@ -46,9 +45,9 @@
 
     <!-- LinkedIn Button Gradient & Border -->
     <linearGradient id="btnBgLi" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#071929" stop-opacity="0.92"/>
-      <stop offset="50%" stop-color="#0b233a" stop-opacity="0.95"/>
-      <stop offset="100%" stop-color="#081b2d" stop-opacity="0.92"/>
+      <stop offset="0%" stop-color="#071929" stop-opacity="0.94"/>
+      <stop offset="50%" stop-color="#0b233a" stop-opacity="0.96"/>
+      <stop offset="100%" stop-color="#081b2d" stop-opacity="0.94"/>
     </linearGradient>
     <linearGradient id="btnBorderLi" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#0077b5"/>
@@ -58,9 +57,9 @@
 
     <!-- Outlook Button Gradient & Border -->
     <linearGradient id="btnBgMail" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#1d0d29" stop-opacity="0.92"/>
-      <stop offset="50%" stop-color="#261038" stop-opacity="0.95"/>
-      <stop offset="100%" stop-color="#170923" stop-opacity="0.92"/>
+      <stop offset="0%" stop-color="#1d0d29" stop-opacity="0.94"/>
+      <stop offset="50%" stop-color="#261038" stop-opacity="0.96"/>
+      <stop offset="100%" stop-color="#170923" stop-opacity="0.94"/>
     </linearGradient>
     <linearGradient id="btnBorderMail" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#d946ef"/>
@@ -68,14 +67,14 @@
       <stop offset="100%" stop-color="#f43f5e"/>
     </linearGradient>
 
-    <!-- Subtle Button Drop Shadow Filter -->
+    <!-- Drop Shadow Filter for Embedded Buttons -->
     <filter id="btnShadow" x="-10%" y="-20%" width="120%" height="150%">
       <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#000000" flood-opacity="0.45"/>
     </filter>
   </defs>
 
   <!-- Animated Undulating Wave Background -->
-  <g transform="translate(427, 105) scale(1, 1) translate(-427, -105)">
+  <g transform="translate(500, 105) scale(1, 1) translate(-500, -105)">
     <!-- Back Wave Layer -->
     <path class="wave-path" d="" fill="url(#waveLinear)" opacity="0.4" transform="scale(-1, 1)" transform-origin="center">
       <animate
@@ -86,7 +85,7 @@
         calcMode="spline"
         keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
         begin="0s"
-        values="M0 0L 0 130Q 213.5 170 427 140T 854 165L 854 0 Z;M0 0L 0 155Q 213.5 170 427 150T 854 140L 854 0 Z;M0 0L 0 175Q 213.5 145 427 175T 854 140L 854 0 Z;M0 0L 0 130Q 213.5 170 427 140T 854 165L 854 0 Z"
+        values="M0 0L 0 130Q 250 170 500 140T 1000 165L 1000 0 Z;M0 0L 0 155Q 250 170 500 150T 1000 140L 1000 0 Z;M0 0L 0 175Q 250 145 500 175T 1000 140L 1000 0 Z;M0 0L 0 130Q 250 170 500 140T 1000 165L 1000 0 Z"
       />
     </path>
     <!-- Front Wave Layer -->
@@ -99,43 +98,43 @@
         calcMode="spline"
         keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
         begin="-10s"
-        values="M0 0L 0 145Q 213.5 190 427 160T 854 170L 854 0 Z;M0 0L 0 160Q 213.5 130 427 130T 854 150L 854 0 Z;M0 0L 0 155Q 213.5 135 427 160T 854 175L 854 0 Z;M0 0L 0 145Q 213.5 190 427 160T 854 170L 854 0 Z"
+        values="M0 0L 0 145Q 250 190 500 160T 1000 170L 1000 0 Z;M0 0L 0 160Q 250 130 500 130T 1000 150L 1000 0 Z;M0 0L 0 155Q 250 135 500 160T 1000 175L 1000 0 Z;M0 0L 0 145Q 250 190 500 160T 1000 170L 1000 0 Z"
       />
     </path>
   </g>
 
-  <!-- Left Embedded Button: LinkedIn (x=24, y=118, width=228, height=48) -->
+  <!-- Left Embedded Button: LinkedIn (x=30, y=117, width=210, height=46) -->
   <a class="btn-link" xlink:href="https://www.linkedin.com/in/msufiyanpk" href="https://www.linkedin.com/in/msufiyanpk" target="_blank" rel="noopener noreferrer">
-    <g transform="translate(24, 118)" filter="url(#btnShadow)">
+    <g transform="translate(30, 117)" filter="url(#btnShadow)">
       <!-- Pill Container -->
-      <rect x="0" y="0" width="228" height="48" rx="24" fill="url(#btnBgLi)" stroke="url(#btnBorderLi)" stroke-width="1.8"/>
+      <rect x="0" y="0" width="210" height="46" rx="23" fill="url(#btnBgLi)" stroke="url(#btnBorderLi)" stroke-width="1.8"/>
 
       <!-- LinkedIn Icon Tile -->
-      <g transform="translate(9, 8)">
+      <g transform="translate(8, 7)">
         <rect width="32" height="32" rx="9" fill="#0a66c2"/>
         <path d="M11.5 12.5a1.6 1.6 0 1 0 0-3.2 1.6 1.6 0 0 0 0 3.2zM10 14.5h3.2v9H10zM15 14.5h3.1v1.2h.1c.4-.8 1.5-1.5 3-1.5 3.2 0 3.8 2.1 3.8 4.9v9h-3.2v-4c0-.9 0-2.1-1.3-2.1s-1.5 1-1.5 2v4.1H15z" fill="#ffffff"/>
       </g>
 
       <!-- Button Text -->
-      <text x="50" y="21" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" letter-spacing="0.2">LinkedIn</text>
-      <text x="50" y="36" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="500">Connect professionally</text>
+      <text x="48" y="20" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="0.2">LinkedIn</text>
+      <text x="48" y="34" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="500">Connect professionally</text>
 
       <!-- Arrow Glyph -->
-      <g transform="translate(196, 15)">
-        <circle cx="9" cy="9" r="8.5" fill="#0a2540" stroke="#0ea5e9" stroke-width="1"/>
-        <path d="M6.5 11.5L11.5 6.5M7.5 6.5H11.5V10.5" fill="none" stroke="#67e8f9" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+      <g transform="translate(180, 15)">
+        <circle cx="8" cy="8" r="7.5" fill="#0a2540" stroke="#0ea5e9" stroke-width="1"/>
+        <path d="M5.5 10.5L10.5 5.5M6.5 5.5H10.5V9.5" fill="none" stroke="#67e8f9" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
       </g>
     </g>
   </a>
 
-  <!-- Mid-Left Embedded Button: Microsoft Outlook (x=268, y=118, width=248, height=48) -->
+  <!-- Mid-Left Embedded Button: Microsoft Outlook (x=256, y=117, width=230, height=46) -->
   <a class="btn-link" xlink:href="mailto:sufiyanaasim@outlook.com" href="mailto:sufiyanaasim@outlook.com">
-    <g transform="translate(268, 118)" filter="url(#btnShadow)">
+    <g transform="translate(256, 117)" filter="url(#btnShadow)">
       <!-- Pill Container -->
-      <rect x="0" y="0" width="248" height="48" rx="24" fill="url(#btnBgMail)" stroke="url(#btnBorderMail)" stroke-width="1.8"/>
+      <rect x="0" y="0" width="230" height="46" rx="23" fill="url(#btnBgMail)" stroke="url(#btnBorderMail)" stroke-width="1.8"/>
 
       <!-- Outlook Icon Tile -->
-      <g transform="translate(9, 8)">
+      <g transform="translate(8, 7)">
         <rect width="32" height="32" rx="9" fill="#0078d4"/>
         <g transform="translate(4, 5) scale(0.62)">
           <path fill="#ffffff" d="M19.484 7.937v5.477l1.916 1.205a.5.5 0 0 0 .21 0l8.238-5.554a1.174 1.174 0 0 0-.959-1.128Z"/>
@@ -145,17 +144,17 @@
       </g>
 
       <!-- Button Text -->
-      <text x="50" y="21" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" letter-spacing="0.2">Microsoft Outlook</text>
-      <text x="50" y="36" fill="#f472b6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="500">sufiyanaasim@outlook.com</text>
+      <text x="48" y="20" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="0.2">Microsoft Outlook</text>
+      <text x="48" y="34" fill="#f472b6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="500">sufiyanaasim@outlook.com</text>
 
       <!-- Arrow Glyph -->
-      <g transform="translate(216, 15)">
-        <circle cx="9" cy="9" r="8.5" fill="#38103c" stroke="#ec4899" stroke-width="1"/>
-        <path d="M6.5 11.5L11.5 6.5M7.5 6.5H11.5V10.5" fill="none" stroke="#f472b6" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+      <g transform="translate(200, 15)">
+        <circle cx="8" cy="8" r="7.5" fill="#38103c" stroke="#ec4899" stroke-width="1"/>
+        <path d="M5.5 10.5L10.5 5.5M6.5 5.5H10.5V9.5" fill="none" stroke="#f472b6" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
       </g>
     </g>
   </a>
 
-  <!-- Right Side Call-to-Action Text: let's talk tech! (x=73%, y=68%) -->
-  <text text-anchor="middle" dominant-baseline="middle" x="73%" y="68%" class="text" fill="#ffffff" stroke="none">let's talk tech!</text>
+  <!-- Right Side Call-to-Action Text: let's talk tech! (centered at x=780, y=140 with massive clearance) -->
+  <text text-anchor="middle" dominant-baseline="central" x="780" y="140" class="text" fill="#ffffff" stroke="none">let's talk tech!</text>
 </svg>
