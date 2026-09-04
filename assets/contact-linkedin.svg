@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="112" viewBox="0 0 640 112" role="img" aria-labelledby="title desc">
+  <title id="title">LinkedIn</title><desc id="desc">Connect with Mohammad Sufiyan Aasim on LinkedIn</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#071827"/><stop offset="1" stop-color="#082f49"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <rect x="2" y="2" width="636" height="108" rx="22" fill="url(#bg)" stroke="#22d3ee" stroke-width="3"/>
+  <rect x="26" y="20" width="72" height="72" rx="15" fill="#0a66c2"/>
+  <text x="62" y="74" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="44" font-weight="800">in</text>
+  <circle cx="590" cy="56" r="8" fill="#22d3ee" filter="url(#glow)"/>
+  <path d="M562 56h36m-12-12 12 12-12 12" fill="none" stroke="#a5f3fc" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="126" y="49" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="750">LINKEDIN</text>
+  <text x="126" y="78" fill="#a5f3fc" font-family="Consolas, monospace" font-size="16">Connect professionally</text>
+</svg>

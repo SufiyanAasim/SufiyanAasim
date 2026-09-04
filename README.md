@@ -122,9 +122,9 @@
 <p align="center">If you liked what you saw, let's connect.</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/msufiyanpk"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/msufiyanpk"><img src="assets/contact-linkedin.svg" width="320" alt="Connect on LinkedIn" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:sufiyanaasim@outlook.com"><img src="https://img.shields.io/badge/Email-Say_Hello-7c3aed?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Send an email" /></a>
+  <a href="mailto:sufiyanaasim@outlook.com"><img src="assets/contact-email.svg" width="320" alt="Send an email" /></a>
 </p>
 
 ---
