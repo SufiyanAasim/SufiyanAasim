@@ -55,109 +55,105 @@
 
 # 🚀 Tech Stack & Skills
 
-### 🧪 Testing & Quality Engineering
-
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-0284C7?style=for-the-badge)
-![API Testing](https://img.shields.io/badge/API_Testing-2563EB?style=for-the-badge)
-![Functional Testing](https://img.shields.io/badge/Functional_Testing-0D9488?style=for-the-badge)
-![UI/UX Testing](https://img.shields.io/badge/UI%2FUX_Testing-0891B2?style=for-the-badge)
-![Regression Testing](https://img.shields.io/badge/Regression_Testing-16A34A?style=for-the-badge)
-![Exploratory Testing](https://img.shields.io/badge/Exploratory_Testing-7C3AED?style=for-the-badge)
-![RBAC Validation](https://img.shields.io/badge/RBAC_Validation-DC2626?style=for-the-badge)
-![Defect Lifecycle](https://img.shields.io/badge/Defect_Lifecycle-EA580C?style=for-the-badge)
-
----
-
-### 🛠️ QA Tools & Documentation
-
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Firebase Crashlytics](https://img.shields.io/badge/Crashlytics-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Apple TestFlight](https://img.shields.io/badge/TestFlight-007AFF?style=for-the-badge&logo=apple&logoColor=white)
-![SRS/FRS Documentation](https://img.shields.io/badge/SRS%2FFRS_Specs-4F46E5?style=for-the-badge)
-![Test Plans & DoD](https://img.shields.io/badge/Test_Plans_%26_DoD-059669?style=for-the-badge)
-![Agile/Scrum](https://img.shields.io/badge/Agile_%2F_Scrum-334155?style=for-the-badge)
-
----
-
-### 💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
----
-
-### 🌐 Web & Backend Engineering
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-### 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
-
-### ⚙️ Platforms & DevOps
-
-![Linux](https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧪 Testing &amp; Quality Engineering</h4>
+      <img src="https://img.shields.io/badge/Manual_Testing-0284C7?style=for-the-badge" alt="Manual Testing" />
+      <img src="https://img.shields.io/badge/API_Testing-2563EB?style=for-the-badge" alt="API Testing" />
+      <img src="https://img.shields.io/badge/Functional_Testing-0D9488?style=for-the-badge" alt="Functional Testing" />
+      <img src="https://img.shields.io/badge/UI%2FUX_Testing-0891B2?style=for-the-badge" alt="UI/UX Testing" />
+      <img src="https://img.shields.io/badge/Regression_Testing-16A34A?style=for-the-badge" alt="Regression Testing" />
+      <img src="https://img.shields.io/badge/Exploratory_Testing-7C3AED?style=for-the-badge" alt="Exploratory Testing" />
+      <img src="https://img.shields.io/badge/RBAC_Validation-DC2626?style=for-the-badge" alt="RBAC Validation" />
+      <img src="https://img.shields.io/badge/Defect_Lifecycle-EA580C?style=for-the-badge" alt="Defect Lifecycle" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛠️ QA Tools &amp; Documentation</h4>
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+      <img src="https://img.shields.io/badge/Crashlytics-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Crashlytics" />
+      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
+      <img src="https://img.shields.io/badge/TestFlight-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="TestFlight" />
+      <img src="https://img.shields.io/badge/SRS%2FFRS_Specs-4F46E5?style=for-the-badge" alt="SRS/FRS Specs" />
+      <img src="https://img.shields.io/badge/Test_Plans_%26_DoD-059669?style=for-the-badge" alt="Test Plans &amp; DoD" />
+      <img src="https://img.shields.io/badge/Agile_%2F_Scrum-334155?style=for-the-badge" alt="Agile / Scrum" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Programming Languages</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 Web &amp; Backend Engineering</h4>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🗄️ Databases</h4>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Platforms &amp; DevOps</h4>
+      <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Linux Ubuntu" />
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+      <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 # 🌟 Featured Projects
 
-### 🛡️ [Smart Network Intrusion Detection System (S-NIDS)](https://github.com/SufiyanAasim/smart-network-intrusion-detection-system)
-
-Multi-model network intrusion detection, consensus triage, and policy-governed autonomous defense workspace. Analyzes streaming network packets and orchestrates automated defensive responses against anomalies.
-
-**Tech:** `Python` • `Machine Learning` • `Network Security` • `Telemetry Streaming` • `Policy Automation`
-
----
-
-### 💳 [DigiWallSys — Digital Wallet & Double-Entry Ledger](https://github.com/SufiyanAasim/digiwallsys)
-
-Full-stack digital wallet platform featuring verified funding, immutable double-entry ledger accounting, dynamic QR payments, transfer automation, fraud risk controls, spending alerts, and audited admin operations.
-
-**Tech:** `JavaScript` • `Node.js` • `Express` • `PostgreSQL` • `Double-Entry Accounting` • `REST API`
-
----
-
-### ⚡ [Queueless — Cloud-Native Smart Queue System](https://github.com/SufiyanAasim/queueless)
-
-Cloud-native smart token & queue management system featuring real-time queues, an integrated AI assistant, internal team messaging, and ML-powered wait-time predictions.
-
-**Tech:** `React` • `Node.js` • `Express` • `Firebase Firestore` • `Cloud Functions` • `Machine Learning`
-
----
-
-### 📊 [Process Monitor Manager](https://github.com/SufiyanAasim/process-monitor-manager)
-
-Lightweight, menu-driven terminal CLI, Zenity GUI, and live auto-refreshing TUI dashboard for monitoring and managing Ubuntu/Linux system processes using native POSIX tooling (`procps`, `psmisc`, `curses`).
-
-**Tech:** `Bash / Shell` • `Linux (procps, curses)` • `Zenity GUI` • `POSIX Utilities` • `System Monitoring`
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/SufiyanAasim/smart-network-intrusion-detection-system">Smart Network Intrusion Detection (S-NIDS)</a></h3>
+      <p>Multi-model network intrusion detection, consensus triage, and policy-governed autonomous defense workspace. Analyzes streaming network packets and orchestrates automated defensive responses against anomalies.</p>
+      <p><b>Tech:</b> <code>Python</code> • <code>Machine Learning</code> • <code>Network Security</code> • <code>Telemetry Streaming</code> • <code>Policy Automation</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💳 <a href="https://github.com/SufiyanAasim/digiwallsys">DigiWallSys — Digital Wallet &amp; Ledger</a></h3>
+      <p>Full-stack digital wallet platform featuring verified funding, immutable double-entry ledger accounting, dynamic QR payments, transfer automation, fraud risk controls, spending alerts, and audited admin operations.</p>
+      <p><b>Tech:</b> <code>JavaScript</code> • <code>Node.js</code> • <code>Express</code> • <code>PostgreSQL</code> • <code>Double-Entry Accounting</code> • <code>REST API</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/SufiyanAasim/queueless">Queueless — Smart Queue System</a></h3>
+      <p>Cloud-native smart token &amp; queue management system featuring real-time queues, an integrated AI assistant, internal team messaging, and ML-powered wait-time predictions.</p>
+      <p><b>Tech:</b> <code>React</code> • <code>Node.js</code> • <code>Express</code> • <code>Firebase Firestore</code> • <code>Cloud Functions</code> • <code>Machine Learning</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/SufiyanAasim/process-monitor-manager">Process Monitor Manager</a></h3>
+      <p>Lightweight, menu-driven terminal CLI, Zenity GUI, and live auto-refreshing TUI dashboard for monitoring and managing Ubuntu/Linux system processes using native POSIX tooling (<code>procps</code>, <code>psmisc</code>, <code>curses</code>).</p>
+      <p><b>Tech:</b> <code>Bash / Shell</code> • <code>Linux (procps, curses)</code> • <code>Zenity GUI</code> • <code>POSIX Utilities</code> • <code>System Monitoring</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
