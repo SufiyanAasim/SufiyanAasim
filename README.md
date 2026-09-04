@@ -165,7 +165,7 @@ Cloud-native smart token & queue management system featuring real-time queues, a
 
 ---
 
-### 📊 [Process Monitor Manager (PMM)](https://github.com/SufiyanAasim/process-monitor-manager)
+### 📊 [Process Monitor Manager](https://github.com/SufiyanAasim/process-monitor-manager)
 
 Lightweight, menu-driven terminal CLI, Zenity GUI, and live auto-refreshing TUI dashboard for monitoring and managing Ubuntu/Linux system processes using native POSIX tooling (`procps`, `psmisc`, `curses`).
 
