@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=0:0891b2,50:7c3aed,100:db2777&text=Mohammad%20Sufiyan%20Aasim&fontSize=46&fontAlign=50&fontAlignY=47&animation=twinkling&desc=build.%20test.%20ride.%20ship.&descSize=18&descAlignY=60&section=footer" width="100%" alt="Mohammad Sufiyan Aasim - build, test, ride, ship" />
 
 <p align="center">
-  <b>Software Engineering Undergraduate · Karachi, Pakistan</b><br/>
-  SQA Analyst · SQA Engineer · SDET · Data Sciences · Data Mining · AI/ML Ops &nbsp;|&nbsp; Open to Affiliation Work
+  <b>Software Engineering Undergraduate · Bahria University Karachi Campus</b><br/>
+  SQE Executive · Former Chief Quality Officer (QA Lead) · SDET · Data Sciences · AI/ML Engineering &nbsp;|&nbsp; Open to Affiliation Work
 </p>
 
 <p align="center">
@@ -14,91 +14,126 @@
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/SufiyanAasim?label=followers&style=for-the-badge&color=0891b2&logo=github&logoColor=white" alt="GitHub followers" />
   &nbsp;&nbsp;
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-22c55e?style=for-the-badge" alt="MIT License" /></a>
+  <img src="https://img.shields.io/badge/QA_Experience-3%2B_Years-22c55e?style=for-the-badge" alt="3+ Years QA Experience" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 **Software Engineering Undergraduate** based in Karachi, Pakistan
+🎓 **Software Engineering Undergraduate (Expected 2027)** at **Bahria University Karachi Campus**  
+• **Focus:** AI/ML Engineering  
+• **Coursework:** Software Quality Engineering, Data Sciences, Data Mining, Data Structures & Algorithms, Object-Oriented Programming
 
-🧪 **Quality Engineering & SDET Focus:** Passionate about writing automated test suites, CI/CD quality gates, and test-first software design
+🧪 **Software Quality Engineer with 3+ Years of Hands-on Experience** across SaaS, ERP, and mobile platforms. Progressed from SQA Intern to **Chief Quality Officer / QA Lead**, directing a 3-person QA team and owning end-to-end quality planning and release readiness.
 
-🧠 **Data Science & AI/ML Ops:** Deep in Data Mining, statistical telemetry analysis, and production-ready machine learning workflows
+📱 **Cross-Platform & API Testing:** Executed manual, API, functional, UI/UX, regression, and exploratory test cycles across 7+ production mobile & web products on Android and iOS using Android Studio, TestFlight, Postman, and browser tools.
 
-⚙️ **Full-Stack & Systems Craft:** Experienced with full-stack web platforms, desktop engines, and low-level POSIX / embedded systems
+📋 **End-to-End QA Documentation:** Authored production SRS, FRS, Test Plans, Acceptance Criteria, Definition of Done, and business-logic QA walkthroughs for AI and enterprise platforms (*CancunAI*, *themetalytics*, *T.R.A.V.E.L*).
 
-🏍️ **Life Off the Keyboard:** Passionate motorcyclist — rides double as rubber-duck debugging sessions
+🧠 **Data Science & AI Focus:** Deep in Data Mining techniques, statistical telemetry modeling, and machine learning operations for defensive and analytical systems.
 
-💼 **Open to Affiliation Work:** Ready to collaborate on real-world engineering, QA automation, and data systems
+🏍️ **Life Off the Keyboard:** Passionate motorcyclist — rides double as rubber-duck debugging sessions.
+
+💼 **Open to Affiliation Work:** Ready to collaborate on remote quality engineering, QA automation, and intelligent software systems.
 
 ---
 
-# 🚀 Tech Stack
+# 🏢 Industry & Product Experience
 
-### 💻 Languages
+### 🔬 **Instant Solutions Lab (ISL)** — *SQE Executive* `Apr 2026 – Jun 2026`
+- Executed API, UI/UX, and functional testing across **7+ mobile and web products** (Fanatech, BandBox, Hometown, Ticketdrop, Rent-Pay Return) on Android & iOS via Android Studio and TestFlight.
+- Triaged crash telemetry in **Firebase Crashlytics**, converting reproducible issues into logged defects with acceptance criteria and reproduction steps.
+- Produced the comprehensive documentation suite for **CancunAI** (app + web portal) — SRS, FRS, Definition of Done, business logic, and designed user flows for a Hospital Management System (HMS).
+
+### 🎯 **Quantaflix** — *Chief Quality Officer (QA Lead)* `Apr 2025 – Oct 2025`
+- Promoted from QA Engineer to lead a **3-person QA team**, establishing standardized defect tracking workflows, test planning, and release readiness criteria.
+- Led quality assurance for **T.R.A.V.E.L** (SaaS-based B2C ERP), maintaining test plans, defect reports, and release notes in Jira targeting booking-flow performance.
+- Logged **50+ UI and usability defects** across iterative regression cycles using Postman and browser inspection tools.
+
+### 🌐 **codiosync** — *SQA Executive & Founding Member* `Sep 2025 – Dec 2025`
+- Performed recurring manual and API regression cycles on **themetalytics**, a SaaS-based Institute Management System (IMS) across 7 modules (student, teacher, scheduling, admin).
+- Maintained QA documentation and coordinated defect tracking and backlog hygiene in step with sprint cycles.
+
+### 💼 **Clinet** — *Co-Founder & Business Administrator* `Sep 2024 – Jan 2026`
+- Delivered white-labeled standalone deployments of the core SaaS platform for clients requiring dedicated architecture with client-specific theming.
+- Conducted exploratory validation and product research on **Travenet** (SaaS-based travel CRM & ERP), flagging role-based access control (RBAC) defects.
+
+### 🛡️ **YCSOL** — *Software Quality Assurance Analyst (SQAA)* `Aug 2023 – Aug 2024`
+- Validated role-based access workflows across admin, developer, and financial roles on internal CRM/ERP platforms.
+- Executed regression and sanity testing cycles on **YourCloudCampus** (CCMS), including complaint management and defect lifecycle verification.
+
+---
+
+# 🚀 Tech Stack & Skills
+
+### 🧪 Testing & Quality Engineering
+
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-0284C7?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API_Testing-2563EB?style=for-the-badge)
+![Functional Testing](https://img.shields.io/badge/Functional_Testing-0D9488?style=for-the-badge)
+![UI/UX Testing](https://img.shields.io/badge/UI%2FUX_Testing-0891B2?style=for-the-badge)
+![Regression Testing](https://img.shields.io/badge/Regression_Testing-16A34A?style=for-the-badge)
+![Exploratory Testing](https://img.shields.io/badge/Exploratory_Testing-7C3AED?style=for-the-badge)
+![RBAC Validation](https://img.shields.io/badge/RBAC_Validation-DC2626?style=for-the-badge)
+![Defect Lifecycle](https://img.shields.io/badge/Defect_Lifecycle-EA580C?style=for-the-badge)
+
+---
+
+### 🛠️ QA Tools & Documentation
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Firebase Crashlytics](https://img.shields.io/badge/Crashlytics-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Apple TestFlight](https://img.shields.io/badge/TestFlight-007AFF?style=for-the-badge&logo=apple&logoColor=white)
+![SRS/FRS Documentation](https://img.shields.io/badge/SRS%2FFRS_Specs-4F46E5?style=for-the-badge)
+![Test Plans & DoD](https://img.shields.io/badge/Test_Plans_%26_DoD-059669?style=for-the-badge)
+![Agile/Scrum](https://img.shields.io/badge/Agile_%2F_Scrum-334155?style=for-the-badge)
+
+---
+
+### 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
 
-### 🤖 AI, Machine Learning & Data Sciences
-
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Data Mining](https://img.shields.io/badge/Data_Mining-0284C7?style=for-the-badge)
-![AI/ML Ops](https://img.shields.io/badge/AI%2FML_Ops-7C3AED?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data_Science-0891B2?style=for-the-badge)
-![Telemetry Analytics](https://img.shields.io/badge/Telemetry_Analytics-0D9488?style=for-the-badge)
-![Stockfish Engine](https://img.shields.io/badge/Stockfish_Engine-059669?style=for-the-badge)
-
----
-
-### 🧪 QA Automation & SDET
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Unittest](https://img.shields.io/badge/Python_Unittest-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Automated Regression](https://img.shields.io/badge/Automated_Regression-16A34A?style=for-the-badge)
-![CI/CD Quality Gates](https://img.shields.io/badge/CI%2FCD_Quality_Gates-2563EB?style=for-the-badge&logo=githubactions&logoColor=white)
-
----
-
-### 🗄️ Backend & Databases
+### 🌐 Web & Backend Engineering
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
----
-
-### 📱 Web & Mobile
-
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-### ⚙️ Cloud, DevOps & Platforms
+### 🗄️ Databases
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
+
+### ⚙️ Platforms & DevOps
+
 ![Linux](https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
@@ -176,6 +211,21 @@ Production-grade C# .NET 8 WinForms Airline Reservation & Telemetry Analytics Sy
 
 ---
 
+# 📜 Education & Certifications
+
+### 🎓 Education
+* **Bachelor of Science in Software Engineering (BSE)** — *Bahria University Karachi Campus* `Expected 2027`
+  * Focus: AI/ML Engineering
+  * Coursework: Software Quality Engineering, Data Sciences, Data Mining, Data Structures & Algorithms, OOP
+* **Intermediate in Pre-Engineering** — *Bahria College N.O.R.E. I* `Completed 2022`
+  * Extracurricular: Bahria Model United Nations (BMUN)
+
+### 🏅 Certifications
+* **Full-Stack Web Development** — *Aptech* `2024`
+* **Digital Marketing & SEO** — *Aptech* `2024`
+
+---
+
 # 🏆 Engineering Highlights & Philosophy
 
 - 🧪 **Test-First Engineering Rigor:** Default to writing automated tests and assertions before fixing bugs; maintain a zero-regression mindset.
@@ -196,4 +246,3 @@ Production-grade C# .NET 8 WinForms Airline Reservation & Telemetry Analytics Sy
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:22d3ee,50:d946ef,100:f43f5e&text=let's%20talk%20tech!&fontSize=44&fontAlign=73&fontAlignY=68&animation=twinkling&section=footer&reversal=true" width="100%" alt="Let's talk tech" />
-
