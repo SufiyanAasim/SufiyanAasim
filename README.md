@@ -186,17 +186,6 @@
 * **Digital Marketing & SEO** — *Aptech* `2024`
 
 ---
+<img src="assets/footer.svg" width="100%" alt="Let's talk tech — Connect on LinkedIn or Email via Outlook" />
 
-<p align="left">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/msufiyanpk" target="_blank" rel="noopener noreferrer">
-    <img src="assets/button-linkedin.svg" height="48" alt="Connect on LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:sufiyanaasim@outlook.com">
-    <img src="assets/button-outlook.svg" height="48" alt="Send an Email via Microsoft Outlook" />
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:22d3ee,50:d946ef,100:f43f5e&text=let's%20talk%20tech!&fontSize=44&fontColor=ffffff&fontAlign=73&fontAlignY=68&animation=twinkling&section=footer&reversal=true" width="100%" alt="Let's talk tech" />
 
