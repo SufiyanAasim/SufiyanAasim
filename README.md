@@ -154,23 +154,8 @@
     </td>
   </tr>
 </table>
-
 ---
 
-# 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img height="175" src="https://github-readme-stats-fast.vercel.app/api?username=SufiyanAasim&show_icons=true&theme=radical" alt="Sufiyan's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="175" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SufiyanAasim&layout=compact&theme=radical&langs_count=8" alt="Sufiyan's Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=SufiyanAasim&theme=radical" alt="Sufiyan's GitHub Contribution Streak" />
-</p>
-
-
----
 
 # 📜 Education & Certifications
 
