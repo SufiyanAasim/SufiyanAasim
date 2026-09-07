@@ -150,12 +150,11 @@
   * Coursework: Software Quality Engineering, Data Sciences, Data Mining, Data Structures & Algorithms, OOP
 
 ### 🏅 Certifications
-* **Claude Academy: AI Capabilities and Limitations** — *Anthropic*
-* **Claude with Google Cloud's Vertex AI** — *Anthropic*
+* **Claude Academy: AI Capabilities and Limitations** — *Anthropic* `2026`
+* **Claude with Google Cloud's Vertex AI** — *Anthropic* `2026`
 * **Full-Stack Web Development** — *Aptech* `2024`
 * **Digital Marketing & SEO** — *Aptech* `2024`
 
----
 <img src="assets/footer.svg" width="100%" alt="Let's talk tech — Connect on LinkedIn or Email via Outlook" />
 
 
