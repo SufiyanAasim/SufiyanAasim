@@ -9,14 +9,6 @@
   <i>I build tested, documented, real-world software. Off the keyboard, I recharge on two wheels.<br/>Always up for connecting with people shipping useful things.</i>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SufiyanAasim&label=profile+visits&color=7c3aed&style=for-the-badge" alt="Profile visit counter" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/SufiyanAasim?label=followers&style=for-the-badge&color=0891b2&logo=github&logoColor=white" alt="GitHub followers" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/QA_Experience-3%2B_Years-22c55e?style=for-the-badge" alt="3+ Years QA Experience" />
-</p>
-
 ---
 
 # 👨‍💻 About Me
@@ -29,27 +21,20 @@
 
 # 🏢 Industry & Product Experience
 
-### 🔬 **Instant Solutions Lab (ISL)** — *SQE Executive* `Apr 2026 – Jun 2026`
-- Executed API, UI/UX, and functional testing across **7+ mobile and web products** (Fanatech, BandBox, Hometown, Ticketdrop, Rent-Pay Return) on Android & iOS via Android Studio and TestFlight.
-- Triaged crash telemetry in **Firebase Crashlytics**, converting reproducible issues into logged defects with acceptance criteria and reproduction steps.
-- Produced the comprehensive documentation suite for **CancunAI** (app + web portal) — SRS, FRS, Definition of Done, business logic, and designed user flows for a Hospital Management System (HMS).
+### 🔬 **Instant Solutions Lab (ISL)** — *SQE Executive*
+- Executed API, UI/UX, and functional QA across **7+ mobile & web products** (Fanatech, BandBox, Hometown, Ticketdrop, Rent-Pay Return) and authored technical SRS/FRS specifications for **CancunAI** HMS.
 
-### 🎯 **Quantaflix** — *Chief Quality Officer (QA Lead)* `Apr 2025 – Oct 2025`
-- Promoted from QA Engineer to lead a **3-person QA team**, establishing standardized defect tracking workflows, test planning, and release readiness criteria.
-- Led quality assurance for **T.R.A.V.E.L** (SaaS-based B2C ERP), maintaining test plans, defect reports, and release notes in Jira targeting booking-flow performance.
-- Logged **50+ UI and usability defects** across iterative regression cycles using Postman and browser inspection tools.
+### 🎯 **Quantaflix** — *Chief Quality Officer (QA Lead)*
+- Led a **3-person QA team**, establishing release criteria, standardized workflows, and end-to-end quality assurance for **T.R.A.V.E.L** (SaaS B2C ERP).
 
-### 🌐 **codiosync** — *SQA Executive & Founding Member* `Sep 2025 – Dec 2025`
-- Performed recurring manual and API regression cycles on **themetalytics**, a SaaS-based Institute Management System (IMS) across 7 modules (student, teacher, scheduling, admin).
-- Maintained QA documentation and coordinated defect tracking and backlog hygiene in step with sprint cycles.
+### 🌐 **codiosync** — *SQA Executive & Founding Member*
+- Executed recurring manual and API regression testing cycles across 7 core modules on **themetalytics** (SaaS Institute Management System).
 
-### 💼 **Clinet** — *Co-Founder & Business Administrator* `Sep 2024 – Jan 2026`
-- Delivered white-labeled standalone deployments of the core SaaS platform for clients requiring dedicated architecture with client-specific theming.
-- Conducted exploratory validation and product research on **Travenet** (SaaS-based travel CRM & ERP), flagging role-based access control (RBAC) defects.
+### 💼 **Clinet** — *Co-Founder & Business Administrator*
+- Delivered white-labeled SaaS platform deployments and conducted exploratory product and RBAC validation on **Travenet** (Travel CRM & ERP).
 
-### 🛡️ **YCSOL** — *Software Quality Assurance Analyst (SQAA)* `Aug 2023 – Aug 2024`
-- Validated role-based access workflows across admin, developer, and financial roles on internal CRM/ERP platforms.
-- Executed regression and sanity testing cycles on **YourCloudCampus** (CCMS), including complaint management and defect lifecycle verification.
+### 🛡️ **YCSOL** — *Software Quality Assurance Analyst (SQAA)*
+- Executed regression, sanity, and RBAC validation workflows on internal CRM/ERP platforms and **YourCloudCampus** (CCMS).
 
 ---
 
@@ -154,19 +139,19 @@
     </td>
   </tr>
 </table>
----
 
+---
 
 # 📜 Education & Certifications
 
 ### 🎓 Education
-* **Bachelor of Science in Software Engineering (BSE)** — *Bahria University Karachi Campus* `Expected 2027`
+* **Bachelors in Software Engineering (BSE)** — *Bahria University Karachi Campus* `Expected 2027`
   * Focus: AI/ML Engineering
   * Coursework: Software Quality Engineering, Data Sciences, Data Mining, Data Structures & Algorithms, OOP
-* **Intermediate in Pre-Engineering** — *Bahria College N.O.R.E. I* `Completed 2022`
-  * Extracurricular: Bahria Model United Nations (BMUN)
 
 ### 🏅 Certifications
+* **Claude Academy: AI Capabilities and Limitations** — *Anthropic*
+* **Claude with Google Cloud's Vertex AI** — *Anthropic*
 * **Full-Stack Web Development** — *Aptech* `2024`
 * **Digital Marketing & SEO** — *Aptech* `2024`
 
